@@ -5,6 +5,7 @@ import t from "../../assets/twitter.png"
 import i from "../../assets/instagram.png"
  import g from "../../assets/Github.png"
  import gm from "../../assets/gmail.png"
+ import c from "../../assets/call.png"
 
 const Contactme = () =>{
     return (
@@ -19,6 +20,7 @@ const Contactme = () =>{
         <a href="https://www.instagram.com/codie.wolf/"><img src={i} alt="" className="link"/></a>
         <a href="https://twitter.com/mrdograg"><img src={t} alt="" className="link"/></a> 
         <a href="mailto:dogra00amit@gmail.com"><img src={gm} alt="" className="link"/></a>
+        <a href="tel:+918588022643"><img src={c} alt="" className="link"/></a>
      </div>
    </section>
     );
