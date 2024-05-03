@@ -4,6 +4,7 @@ import Skills from "./components/Skills/skills";
 import Techstack from "./components/Techstack/techstack";
 import Project from "./components/Project/project";
 import Contactme from "./components/Contactme/contactme";
+import Footer from "./components/Footer/footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Techstack/>
       <Project/>
       <Contactme/>
+      <Footer/>
     </div>
   );
 }

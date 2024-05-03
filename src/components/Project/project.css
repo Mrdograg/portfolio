@@ -39,6 +39,10 @@
     background: rgb(50, 50, 50);
   }
 
+  .projHead:hover{
+    color: rgb(8, 158, 168);
+  }
+
   .projectBarImg {
     object-fit: cover;
     height: 3rem;

@@ -32,3 +32,21 @@
     padding: 0 2rem;
     color:rgb(179, 207, 209);
   }
+
+
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .link{
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin: 0 0.75rem;
+
+  }
+
+ .links:hover {
+    color: rgb(8, 158, 168);
+    }
