@@ -24,3 +24,50 @@
   max-width: 50rem;
   padding: 0 2rem;
 }
+
+.skillDesc1 {
+    font-weight: 300;
+    font-size: 1.50rem;
+    max-width: 50rem;
+    padding: 0 2rem;
+    color:rgb(179, 207, 209);
+  }
+
+.skillBar {
+  display: flex;
+  margin: 1rem;
+  padding: 0.5rem 2rem;
+  border-radius: 0.3rem;
+  background: rgb(50, 50, 50);
+  
+}
+
+.skillBarImg {
+    object-fit: initial;
+    height: 30rem;
+    width: 40rem;
+    margin-right: 2rem;
+}
+
+.hobbies {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    display: flex;
+    font-weight: 600;
+}
+
+.hobbiesDesc {
+  font-weight: 300;
+  font-size: 1.02rem;
+}
+
+@media screen and (max-width:480px) {
+    .skillBarImg {
+      height: 12.5rem;
+      width: 22.5rem;
+    }
+}
