@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+background: rgb(30, 30, 30);
+color: white;
+overflow: hidden;
+overflow-y: scroll;
+}
+
+.headline{
+    max-width: 65rem;
+    display: flex;
+    margin: 1rem auto;
+    padding: 0.25rem;
+    border-radius: 0.5rem;
+    background:rgb(8, 158, 168);
+}
