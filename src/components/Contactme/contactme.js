@@ -5,7 +5,6 @@ import t from "../../assets/twitter.png"
  import g from "../../assets/Github.png"
  import gm from "../../assets/gmail.png"
  import c from "../../assets/call.png"
-import { Link } from "react-scroll";
 
 const Contactme = () =>{
     return (
@@ -15,6 +14,9 @@ const Contactme = () =>{
      <span className="contactMeDesc">
 You can find my contact details, LinkedIn, GitHub and download my resume through the provided link. Feel free to connect with me via any platform—I'm accessible across all channels.</span><br/>  
      <span className="contactMeDesc1">Looking forward to connecting with you!</span><br/><br/>
+     <span className="contactMeDesc">Email - Dogra00amit@gmail.com</span><br/>
+     <span className="contactMeDesc">Number - +91-8588022643</span>
+     <br/><br/>
      <div className="links">
         <a href="https://www.linkedin.com/in/mrdograg/"><img src={l} alt="linkedin" className="link"/></a>
         <a href="https://github.com/Mrdograg"><img src={g} alt="github" className="link"/></a>
