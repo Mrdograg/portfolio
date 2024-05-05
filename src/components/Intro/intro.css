@@ -86,6 +86,8 @@ border-bottom: 3px solid rgb(8, 158, 168);
 @media screen and (max-width:480px) {
     .bg{
         right: -20vw;
+        display: none;
     }
+
     
     }
