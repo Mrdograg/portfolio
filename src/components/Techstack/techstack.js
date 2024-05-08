@@ -9,7 +9,7 @@ const Techstack =()=>{
     <div className="headline"></div>
     <span className="techStackTitle">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skills</span>
     <span className="techStackskillDes">&nbsp;&nbsp;&nbsp;Tech-Skills</span>
-   <span className="techStackDesc"><span className="Arrow">&nbsp;&nbsp;&nbsp;•Languages: -</span> JavaScript, Core Java, HTML5, CSS, Data Structures - Algorithms (DSA) and Object Oriented Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Oops).
+   <span className="techStackDesc"><span className="Arrow">&nbsp;&nbsp;&nbsp;•Languages: -</span> C, C++, JavaScript, Core Java, HTML5, CSS, Data Structures - Algorithms (DSA) and Object Oriented Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Oops).
 <br/><span className="Arrow">&nbsp;&nbsp;&nbsp;•Backend: -</span> Spring Boot, Node.JS, Express.JS, Rest APIs, Postman.
 <br/><span className="Arrow">&nbsp;&nbsp;&nbsp;•Frontend: -</span> React.JS, Bootstrap, Tailwind.
 <br/><span className="Arrow">&nbsp;&nbsp;&nbsp;•Database: -</span> NoSQL- MongoDB, PostgreSQL, SQL.
